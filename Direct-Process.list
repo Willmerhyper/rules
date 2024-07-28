@@ -34,3 +34,5 @@ PROCESS-NAME,com.taobao.idlefish
 PROCESS-NAME,com.alicloud.databox
 PROCESS-NAME,com.autonavi.minimap
 PROCESS-NAME,com.tailscale.ipn
+PROCESS-NAME,com.icinfo.EZT
+PROCESS-NAME,com.czzhao.binance
