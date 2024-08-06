@@ -35,4 +35,13 @@ PROCESS-NAME,com.alicloud.databox
 PROCESS-NAME,com.autonavi.minimap
 PROCESS-NAME,com.tailscale.ipn
 PROCESS-NAME,com.icinfo.EZT
-PROCESS-NAME,com.czzhao.binance
+PROCESS-NAME,com.ccb.ccbDemo
+PROCESS-NAME,com.icbc.iphoneclient
+PROCESS-NAME,com.bankabc.iphonerelease
+PROCESS-NAME,com.cmbchina.cmblife
+PROCESS-NAME,com.boc.BOCMBCI
+PROCESS-NAMEcom.hzbank.hzbank.per
+PROCESS-NAME,com.hzbank.hzbank.ent
+PROCESS-NAME,com.hzsmk.CitizenCardapp
+PROCESS-NAME,com.tencent.tim
+PROCESS-NAME,com.tencent.qqmail
